@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\geoff\\GitHub\\quickstartIDServer4UI\\ClientMVC\\ClientMVC.csproj",
+      "projectUniqueName": "C:\\Users\\geoff\\GitHub\\quickstartIDServer4UI\\src\\ClientMVC\\ClientMVC.csproj",
       "projectName": "ClientMVC",
-      "projectPath": "C:\\Users\\geoff\\GitHub\\quickstartIDServer4UI\\ClientMVC\\ClientMVC.csproj",
+      "projectPath": "C:\\Users\\geoff\\GitHub\\quickstartIDServer4UI\\src\\ClientMVC\\ClientMVC.csproj",
       "packagesPath": "C:\\Users\\geoff\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\geoff\\GitHub\\quickstartIDServer4UI\\ClientMVC\\obj\\",
+      "outputPath": "C:\\Users\\geoff\\GitHub\\quickstartIDServer4UI\\src\\ClientMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
