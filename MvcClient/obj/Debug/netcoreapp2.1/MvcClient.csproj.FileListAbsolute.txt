@@ -29,3 +29,4 @@ C:\Users\geoff\GitHub\quickstartIDServer4UI\MvcClient\obj\Debug\netcoreapp2.1\Mv
 C:\Users\geoff\GitHub\quickstartIDServer4UI\MvcClient\obj\Debug\netcoreapp2.1\MvcClient.dll
 C:\Users\geoff\GitHub\quickstartIDServer4UI\MvcClient\obj\Debug\netcoreapp2.1\MvcClient.pdb
 C:\Users\geoff\GitHub\quickstartIDServer4UI\MvcClient\obj\Debug\netcoreapp2.1\MvcClient.csproj.CopyComplete
+C:\Users\geoff\GitHub\quickstartIDServer4UI\MvcClient\obj\Debug\netcoreapp2.1\MvcClient.csprojAssemblyReference.cache

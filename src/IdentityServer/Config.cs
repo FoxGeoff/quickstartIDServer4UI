@@ -32,6 +32,7 @@ namespace IdentityServer
         {
             return new List<Client>
             {
+                /*
                 new Client
                 {
                     ClientId = "client",
@@ -59,7 +60,7 @@ namespace IdentityServer
                         new Secret("secret".Sha256())
                     },
                     AllowedScopes = { "api1" }
-                },
+                }, */
                 // client for OpenID Connect implicit flow
                 new Client
                 {
