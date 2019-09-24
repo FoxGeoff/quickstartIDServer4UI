@@ -51,7 +51,7 @@ using Server;
             WriteLiteral("\n<div class=\"page-header\">\n    <h1>\n        User Code\n    </h1>\n    <p>\n        Please enter the code displayed on your device\n    </p>\n    ");
             EndContext();
             BeginContext(154, 166, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2cefebf283be4fb78d825a1fc86ae67d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "004ba5dec56d4257878f18e728f51492", async() => {
                 BeginContext(203, 110, true);
                 WriteLiteral("\n        <input for=\"userCode\" name=\"userCode\" />\n        <button class=\"btn btn-primary\">Submit</button>\n    ");
                 EndContext();

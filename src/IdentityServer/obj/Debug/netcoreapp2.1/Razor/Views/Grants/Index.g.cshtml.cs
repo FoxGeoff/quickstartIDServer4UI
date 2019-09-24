@@ -244,7 +244,7 @@ WriteAttributeValue("", 884, grant.ClientLogoUrl, 884, 20, false);
             WriteLiteral("                </div>\n                <div class=\"col-sm-2\">\n                    ");
             EndContext();
             BeginContext(2537, 218, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "961d2309545d43da87fa2c0549d91dba", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6c8d263f942d4b4fae59fdb8bef23fc4", async() => {
                 BeginContext(2563, 61, true);
                 WriteLiteral("\n                        <input type=\"hidden\" name=\"clientId\"");
                 EndContext();
